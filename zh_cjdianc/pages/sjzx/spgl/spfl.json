@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "商品分类",
+    "usingComponents": {
+        "cardlist": "/zh_cjdianc/dist/cardlist/index",
+        "gettel": "/zh_cjdianc/dist/gettel/index"
+    }
+}
